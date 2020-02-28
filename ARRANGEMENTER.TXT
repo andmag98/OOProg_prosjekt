@@ -1,0 +1,17 @@
+Antall arrangementer: 2
+Arrangements navn: Arr1
+Spillested: ABC
+Artist: AAA
+Arrangementnummer: 1
+Arrangementstype: 0
+Dato: 20190422
+Klokkeslett: 21:30
+
+Arrangements navn: Arr2
+Spillested: ABC
+Artist: BBB
+Arrangementnummer: 2
+Arrangementstype: 2
+Dato: 20190817
+Klokkeslett: 19:0
+

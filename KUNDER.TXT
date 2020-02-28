@@ -1,0 +1,37 @@
+Siste Kundenummer: 6
+Kundenummer: 1
+Navn: Anne
+Telefon: 11111111
+Mail: anne@gmail.com
+Adresse: anneveien 1
+1111 Oslo
+Kundenummer: 2
+Navn: Bent
+Telefon: 22222222
+Mail: bent@gmail.com
+Adresse: bentveien 2
+2222 Oslo
+Kundenummer: 3
+Navn: Cato
+Telefon: 33333333
+Mail: cato@gmail.com
+Adresse: catoveien 3
+3333 Bergen
+Kundenummer: 4
+Navn: Dora
+Telefon: 44444444
+Mail: dora@gmail.com
+Adresse: doraveien 4
+4444 Bergen
+Kundenummer: 5
+Navn: Elin
+Telefon: 55555555
+Mail: elin@gmail.com
+Adresse: elinveien 5
+5555 Trondheim
+Kundenummer: 6
+Navn: Finn
+Telefon: 66666666
+Mail: finn@gmail.com
+Adresse: finnveien 6
+6666 Trondheim

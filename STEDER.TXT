@@ -1,0 +1,35 @@
+-Sted: ABC
+Antall oppsett: 2
+Oppsettnr: 1
+S
+-Sonenavn: A1
+Antall billetter: 50
+Antall solgt: 0
+Pris pr. Billett: 100
+Antall rader: 5
+Antalle seter per rad: 10
+S
+-Sonenavn: A2
+Antall billetter: 300
+Antall solgt: 0
+Pris pr. Billett: 200
+Antall rader: 10
+Antalle seter per rad: 30
+Oppsettnr: 2
+S
+-Sonenavn: B1
+Antall billetter: 500
+Antall solgt: 0
+Pris pr. Billett: 300
+Antall rader: 10
+Antalle seter per rad: 50
+V
+-Sonenavn: B2
+Antall billetter: 1000
+Antall solgt: 0
+Pris pr. Billett: 100
+V
+-Sonenavn: B3
+Antall billetter: 2000
+Antall solgt: 0
+Pris pr. Billett: 200
